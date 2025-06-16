@@ -1,2 +1,20 @@
 # python-portfolio
-My Python coding portfolio
+안녕하세요! 파이썬을 활용한 프로젝트 포트폴리오입니다.
+
+##프로젝트 목록
+
+### 1. 계산기 (calculator.py)
+-기본 사칙연산 기능
+-사용자 입력 처리
+-조건문 활용
+
+### 2. 숫자 맞추기 게임 (number_guessing_game.py)
+-랜덤 번호 생성
+-함수 정의 및 활용
+-메뉴 시스템
+
+## 사용 기술
+-Python 3.13
+-기본 라이브러리 (random)
+-함수형 프로그래밍
+-사용자 입력 처리
